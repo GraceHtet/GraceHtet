@@ -10,7 +10,7 @@
 
 
 - 💬 Ask me about Javascript and Anime
-- 📫 How to reach me: thirihtethtetaung.stud@maeu.edu.mm
+- 📫 How to reach me: (Email)[thirihtethtetaung.stud@maeu.edu.mm]
 - ⚡ Fun fact: Anime and programming are my things.
 
 
