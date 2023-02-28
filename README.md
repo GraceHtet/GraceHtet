@@ -2,7 +2,7 @@
 <img src="./Thiri Htet.gif" alt="introVideo" />
 
 
-- 🔭 I’m currently working on To Do List Project (https://github.com/GraceHtet/ToDoList-Webpack-.git)
+- 🔭 I’m currently working on BookStore Project ([https://github.com/GraceHtet/ToDoList-Webpack-.git](https://github.com/GraceHtet/bookstore.git))
 - 🌱 Learning <br/> <br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - 🌐 Socials: <br/> <br/>
