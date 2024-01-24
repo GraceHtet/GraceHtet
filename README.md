@@ -10,7 +10,7 @@
 
 
 - 💬 Ask me about JS, RubyOnRails and Anime
-- 📫 How to reach me: [Email](thirihtethtetaung.dev@gmail.com)
+- 📫 How to reach me: thirihtethtetaung.dev@gmail.com
 - ⚡ Fun fact: Anime and programming are my things.
 
 
